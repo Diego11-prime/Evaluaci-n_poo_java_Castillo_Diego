@@ -1,4 +1,4 @@
-package modelo;
+package Educación.Cecade.Tareas.Modelo;
 
 import java.util.Date;
 

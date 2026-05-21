@@ -1,10 +1,11 @@
-package App;
 
-import edu.cecace.tareas.modelo.Docente;
-import edu.cecace.tareas.modelo.Estudiante;
-import edu.cecace.tareas.modelo.Tarea;
-import edu.cecace.tareas.RepositorioTareas.RepositorioMemoriaArrayList;
-import edu.cecace.tareas.servicio.ServicioTareas;
+package Educación.Cecade.Tareas.App;
+
+import Educación.Cecade.Tareas.Modelo.Docente;
+import Educación.Cecade.Tareas.Modelo.Estudiante;
+import Educación.Cecade.Tareas.Modelo.Tarea;
+import Educación.Cecade.Tareas.RepositorioTareas.RepositorioMemoriaArrayList;
+import Educación.Cecade.Tareas.servicio.ServicioTareas;
 import java.io.PrintStream;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

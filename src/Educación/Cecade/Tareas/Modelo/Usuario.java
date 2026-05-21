@@ -1,4 +1,4 @@
-package modelo;
+package Educación.Cecade.Tareas.Modelo;
 
 public abstract class Usuario {
     private String nombre;

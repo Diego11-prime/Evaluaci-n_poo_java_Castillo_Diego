@@ -1,9 +1,10 @@
-package Repositorio;
-import edu.cecace.tareas.modelo.Tarea;
+package Educación.Cecade.Tareas.RepositorioTareas;
+
+import Educación.Cecade.Tareas.Modelo.Tarea;
 import java.util.ArrayList;
 import java.util.List;
 
-public class RepositorioMemoriaTareas extends RepositorioTareas {
+public class RepositorioMemoriaArrayList implements RepositorioTareas {
     private List<Tarea> listaTareas = new ArrayList();
 
     public void agregarTarea(Tarea tarea) {
